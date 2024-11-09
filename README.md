@@ -1,2 +1,2 @@
 # thesis-uatr
-Codebase for my thesis in underwater acoustic target recognition
+Codebase for my thesis in underwater acoustic target recognition.
